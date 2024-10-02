@@ -28,7 +28,7 @@ Select the us-central1 region to store code assets.
 
 **Task 3:** Import Libraries and Define Variables
 
-    ```
+```
     from google.cloud import bigquery
     from google.cloud import aiplatform
     import bigframes.pandas as bpd
@@ -36,6 +36,7 @@ Select the us-central1 region to store code assets.
     from vertexai.language_models._language_models import TextGenerationModel
     from bigframes.ml.cluster import KMeans
     from bigframes.ml.model_selection import train_test_split
+```
 
 **Task 4:** Prepare the Ecommerce Dataset
 Execute a BigQuery SQL script to create a customer_stats table with relevant ecommerce data.
