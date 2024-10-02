@@ -28,7 +28,7 @@ Select the us-central1 region to store code assets.
 
 **Task 3:** Import Libraries and Define Variables
 
-    ```bash
+    ```
     from google.cloud import bigquery
     from google.cloud import aiplatform
     import bigframes.pandas as bpd
