@@ -49,6 +49,7 @@ Select the us-central1 region to store code assets.
 
 **Task 4:** Prepare the Ecommerce Dataset
 Execute a BigQuery SQL script to create a customer_stats table with relevant ecommerce data.
+
 ![image](https://github.com/AvilashBhowmick12/Data-Analysis-Using-Gemini/blob/main/images/output%205%20for%20project%2001.png)
 
 **Task 5:** Train the K-means Clustering Model
