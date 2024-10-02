@@ -53,6 +53,7 @@ Retrieve centroid information from the model.
 Generate a prompt for the text-bison model to create a marketing strategy.
 
 `---optional---`
+
 **Task 7:** Clean Up Resources
 Delete any unnecessary resources to avoid incurring costs.
 Results
