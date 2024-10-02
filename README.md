@@ -42,6 +42,11 @@ Select the us-central1 region to store code assets.
 
 ![image](https://github.com/AvilashBhowmick12/Data-Analysis-Using-Gemini/blob/main/images/output%20one%20for%20project%2001.png)
 
+`Predicting K emans and finding the Centroids and distances`
+
+
+![image](https://github.com/AvilashBhowmick12/Data-Analysis-Using-Gemini/blob/main/images/output%204%20for%20proejct%2001.png)
+
 **Task 4:** Prepare the Ecommerce Dataset
 Execute a BigQuery SQL script to create a customer_stats table with relevant ecommerce data.
 
