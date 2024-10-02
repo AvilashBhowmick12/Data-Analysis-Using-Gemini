@@ -49,17 +49,23 @@ Select the us-central1 region to store code assets.
 
 **Task 4:** Prepare the Ecommerce Dataset
 Execute a BigQuery SQL script to create a customer_stats table with relevant ecommerce data.
+![image](https://github.com/AvilashBhowmick12/Data-Analysis-Using-Gemini/blob/main/images/output%205%20for%20project%2001.png)
 
 **Task 5:** Train the K-means Clustering Model
 Split the dataset into training and test sets.
+
 
 Train the K-means model with 5 clusters.
 
 Save the model to BigQuery.
 
+![image](https://github.com/AvilashBhowmick12/Data-Analysis-Using-Gemini/blob/main/images/output%206.png)
+
 **Task 6:** Analyze Clustering Results
 Retrieve centroid information from the model.
 Generate a prompt for the text-bison model to create a marketing strategy.
+
+![image](https://github.com/AvilashBhowmick12/Data-Analysis-Using-Gemini/blob/main/images/final%20output.png)
 
 `---optional---`
 
