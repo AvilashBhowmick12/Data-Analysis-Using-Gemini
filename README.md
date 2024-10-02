@@ -38,6 +38,9 @@ Select the us-central1 region to store code assets.
     from bigframes.ml.model_selection import train_test_split
 ```
 
+`Fetching Data from the Bigquery Dataset directly to the notebook using sql statements applicable for the bigquery dataset`
+![image](https://www.github.com/AvilashBhowmick12/Data-Analysis-USing-Gemini/images/output-one-for-project-01.png)
+
 **Task 4:** Prepare the Ecommerce Dataset
 Execute a BigQuery SQL script to create a customer_stats table with relevant ecommerce data.
 
